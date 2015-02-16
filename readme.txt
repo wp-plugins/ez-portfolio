@@ -3,7 +3,7 @@ Contributors: Webbisivut.org
 Donate link: http://www.webbisivut.org/
 Tags: wordpress, plugin
 Requires at least: 4.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 == Description ==
 

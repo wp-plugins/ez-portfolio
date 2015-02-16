@@ -1,13 +1,13 @@
 <?php
 /*
  * Plugin Name: EZ Portfolio
- * Version: 1.0
+ * Version: 1.0.1
  * Plugin URI: http://www.w-labs.net/
  * Description: Easy to use portfolio plugin to WordPress
  * Author: W-Labs
  * Author URI: http://www.w-labs.net/
- * Requires at least: 3.9
- * Tested up to: 3.9.1
+ * Requires at least: 4.0
+ * Tested up to: 4.1
  *
  * @package WordPress
  * @author W-Labs
