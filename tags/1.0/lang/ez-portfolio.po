@@ -1,0 +1,318 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: EZ Portfolio\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: W-Labs\n"
+"MIME-Version: 1.0\n"
+"Language: en\n"
+"X-Generator: Poedit 1.6.6\n"
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "0 0.3% 0.85% 0.3%"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "16.06%"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "19.4%"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "2 Columns Width"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "24.4%"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "3 Columns Width"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "32.73%"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "4 Columns Width"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "49.4%"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "5 Columns Width"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "6 Columns Width"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid ""
+"<b>*** This setting will only work if \"Use Custom Colors\" is enabled!</b> "
+"*** Choose hover color for your button."
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid ""
+"<b>*** This setting will only work if \"Use Custom Colors\" is enabled!</b> "
+"*** Choose primary color for your button."
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid ""
+"<b>*** This setting will only work if \"Use Custom Colors\" is enabled!</b> "
+"*** Enter your custom background color in RGBA value (You can use <a href="
+"\"http://html-generator.weebly.com/css-rgba-color-generator.html\" target="
+"\"_blank\">this generator</a> as referance)."
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "<u>General Settings</u>"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "<u>Settings for Classic Effect</u>"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "<u>Settings for Door Classic Effect</u>"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "<u>Settings for Plain and Simple Effect</u>"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "<u>Settings for Push Effect</u>"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Border Color"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Button Hover Color"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Button Primary Color"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Choose Zoom Effect On/Off"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Choose background color for the hover effect"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Choose border color for the hover effect"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Choose color theme"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Choose direction for the push effect"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Choose hover color for your button"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Choose primary color for your button"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Color Theme"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Custom Background color"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Custom Button Hover Color"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Custom Button Primary Color"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Disable Portfolio details On/Off"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "EZ Portfolio"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "EZ Portfolio Settings"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Input marginal between the portfolio items. Default 0 0.3% 0.85% 0.3%"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Marginal"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Push  Up / Down"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Settings"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Show Title on hover On/Off"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "These settings affects to all portfolios"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Title On/Off"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Title background Color"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Turn this on, if you want to use your own custom colors:"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Use Custom Colors On / Off"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Use Custom Colors On/Off"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Use these settings to adjust your \"Classic\" hover effect"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Use these settings to adjust your \"Door Classic\" hover effect"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Use these settings to adjust your \"Plain and Simple\" hover effect"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Use these settings to adjust your \"Push\" hover effect"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid ""
+"Use this function, if you only want to make image gallery, instead of "
+"portfolio. This will disable \"portfolio details\" button!"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Width for 2 columns layout. Default 49.4%"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Width for 3 columns layout. Default 32.73%"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Width for 4 columns layout. Default 24.4%"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Width for 5 columns layout. Default 19.4%"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Width for 6 columns layout. Default 16.06%"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "Zoom On/Off"
+msgstr ""
+
+#. Text in function
+#: ez-portfolio/includes/class-ez-portfolio-settings.php:1
+msgid "rgba(0,0,0,0.5)"
+msgstr ""
