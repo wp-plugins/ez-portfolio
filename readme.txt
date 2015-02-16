@@ -7,11 +7,32 @@ Stable tag: 1.0
 
 == Description ==
 
-EZ Portfolio is easy to use customizable portfolio plugin for WordPress. Read documentation for usage.
+EZ Portfolio is easy to use customizable portfolio plugin for WordPress. It allows you to easily showcase your work in a beautiful way. EZ Portfolio has 4 different hovering effects:
+classic, simple, push (up and down) and door. You can customize these effects on settings panel. These settings has also unlimited colors.
+
+Demo available at: http://webbisivut.org/ez-portfolio/
+
+Basic usage:
+
+1) Navigate to "EZ Portfolio - Add new" and add as many items as you wish.
+
+2) Go to "Settings - EZ" Portfolio and do your adjustments.
+
+3) Go to page editor and click shortcode generator icon at the tools menu and place your portfolio any place on your page you wish.
+
+Full documentation available at /docs/ folder.
 
 == Usage ==
 
-Read documentation located at /docs/ folder.
+Basic usage:
+
+1) Navigate to "EZ Portfolio - Add new" and add as many items as you wish.
+
+2) Go to "Settings - EZ" Portfolio and do your adjustments.
+
+3) Go to page editor and click shortcode generator icon at the tools menu and place your portfolio any place on your page you wish.
+
+Full documentation available at /docs/ folder.
 
 == Installation ==
 
