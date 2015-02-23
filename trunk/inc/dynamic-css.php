@@ -9,12 +9,12 @@ function ez_css_styles_method() {
 		// Variables
 		
 		// General
-		$margin = get_option( 'ez_margin_general', '0 0.3% 0.85% 0.3%' );
-		$two_col_width = get_option( 'ez_2col_width', '49.4%' );
-		$three_col_width = get_option( 'ez_3col_width', '32.73%' );
-		$four_col_width = get_option( 'ez_4col_width', '24.4%' );
-		$five_col_width = get_option( 'ez_5col_width', '19.4%' );
-		$six_col_width = get_option( 'ez_6col_width', '16.06%' );
+		$margin = esc_attr( get_option( 'ez_margin_general', '0 0.3% 0.85% 0.3%' ) );
+		$two_col_width = esc_attr( get_option( 'ez_2col_width', '49.4%' ) );
+		$three_col_width = esc_attr( get_option( 'ez_3col_width', '32.73%' ) );
+		$four_col_width = esc_attr( get_option( 'ez_4col_width', '24.4%' ) );
+		$five_col_width = esc_attr( get_option( 'ez_5col_width', '19.4%' ) );
+		$six_col_width = esc_attr( get_option( 'ez_6col_width', '16.06%' ) );
 
 		// Push
 		$push_bg_color = get_option( 'ez_push_bg_color', '#ffffff' );
@@ -26,9 +26,7 @@ function ez_css_styles_method() {
 		$door_classic_border_color = get_option( 'ez_door_classic_border_color', '#1763a4' );
 		$door_classic_button_color = get_option( 'ez_door_classic_button_color', '#1763a4' );
 		$door_classic_button_hover = get_option( 'ez_door_classic_button_hover', '#ffffff' );		
-		
-		
-		
+			
 		// Styles
         $custom_css = "
         	
