@@ -3,7 +3,7 @@ Contributors: Webbisivut.org
 Donate link: http://www.webbisivut.org/
 Tags: wordpress, plugin, portfolio, responsive, masonry
 Requires at least: 4.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 == Description ==
 
@@ -46,3 +46,4 @@ Installing "EZ Portfolio" can be done either by searching for "EZ Portfolio" via
 
 1.0: Initial release
 1.0.1: Updated description
+1.0.2: Minor security update
