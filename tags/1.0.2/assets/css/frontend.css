@@ -1,0 +1,155 @@
+/**
+ * Main CSS File for Portfolio Frontend
+ * @since   1.0.0
+ */
+ 
+.portfolio-content {
+	width: 100%;
+	z-index: 100;
+	position: relative;
+}
+
+.col {
+	float:left;
+	margin: 0 0.3% 0.6% 0.3%;
+}
+
+/**
+* Grid Column Setup
+*/
+	
+.span_1_of_2 {
+	max-width: 49.4%;
+	width: auto;
+}
+
+.span_1_of_3 {
+	max-width: 32.73%;
+	width: auto;
+}
+	
+.span_1_of_4 {
+	max-width: 24.4%;
+	width: auto;
+}
+
+.span_1_of_5 {
+	max-width: 19.4%;
+	width: auto;
+}
+	
+.span_1_of_6 {
+	max-width: 16.06%;
+	width: auto;
+}
+
+/**
+* CSS Effects
+*/
+
+.ez_item {
+	margin: 0px 10px -3px 0px;
+	overflow: hidden;
+	position: relative;
+	text-align: center;
+	cursor: default;
+}
+
+.ez_item:last-child {
+	margin-right: 0px;
+}
+
+.ez_item .mask, .ez_item .content {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	overflow: hidden;
+	top: 0;
+	left: 0;
+}
+
+.ez_item img {
+	display: block;
+	position: relative;
+	vertical-align: middle;
+}
+
+.ez_item h2 {
+	color: #fff;
+	text-align: center;
+	position: relative;
+	font-size: 15px !important;
+	font-weight: 200;
+	padding: 5px;
+	margin: 0 !important;
+}
+
+.ez_item p {
+	font-size: 12px;
+	position: relative;
+	color: #fff;
+	padding: 10px 20px 20px;
+	text-align: center;
+}
+
+.centerit {
+	width: 100%;
+	height: auto;
+	position: absolute;
+	top : 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+.mask a:link {
+	text-decoration: none;
+}
+
+/**
+* Filters
+*/
+
+#menu-outer {
+	height: 75px;
+}
+
+ul#filter {
+	min-width: 196px;
+	background: #fafafa;
+	border: 1px solid #ccc;
+	list-style: none;
+	padding: 10px 25px 10px 0px;
+	border-radius: 10px;
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+ul#filter li {
+	display: inline;
+	border-right: 1px solid #ccc;
+	padding-right: 20px;
+	margin-left: 20px;
+}
+
+ul#filter li:last-child {
+	border-right: 0px;
+	padding-right: 0px;
+}
+
+ul#filter li a {
+	color: #666;
+	text-decoration: none;
+}
+
+#grid {
+	overflow: visible !important;
+}
+			
+.filtered {
+	z-index: 1 !important;
+}
+
+.filtered:hover {
+	z-index: 2 !important;
+}
