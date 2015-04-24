@@ -3,7 +3,7 @@ Contributors: Webbisivut.org
 Donate link: http://www.webbisivut.org/
 Tags: wordpress, plugin, portfolio, responsive, masonry
 Requires at least: 4.1
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 
 == Description ==
 
